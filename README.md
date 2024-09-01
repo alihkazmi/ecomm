@@ -4,7 +4,6 @@ This is a fully functional eCommerce product catalog built with React, Redux, an
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
